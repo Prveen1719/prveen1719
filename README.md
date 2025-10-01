@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prveen1719&label=Profile%20views&color=0e75b6&style=flat" alt="prveen1719" /> </p>
 
-- 🔭 I’m currently working on **Cargo shipping full stack web application**
+- 🔭 I’m currently working on **Facial emotion detector model using Python and Tenserflow**
 
 - 🌱 I’m currently learning **C# development and Azure DevOps**
 
